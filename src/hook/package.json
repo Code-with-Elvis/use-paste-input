@@ -1,6 +1,6 @@
 {
   "name": "use-paste-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, type-safe React hook for handling paste events with validation",
   "type": "module",
   "main": "./dist/usePaste.cjs",
@@ -14,7 +14,8 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "scripts": {
     "build": "tsup",
